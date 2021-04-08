@@ -1,0 +1,20 @@
+com/birdpackage/BirdFly.java
+ com.birdpackage.Flyable
+com/birdpackage/BirdSwims.java
+ com.birdpackage.Swimmable
+com/birdpackage/Eatable.java
+ com.birdpackage.Eatable
+com/birdpackage/ToyDuck.java
+ com.birdpackage.ToyDuck
+com/birdpackage/Penguin.java
+ com.birdpackage.Penguin
+com/birdpackage/Bird.java
+ com.birdpackage.Bird
+com/birdpackage/Parrot.java
+ com.birdpackage.Parrot
+com/birdpackage/Duck.java
+ com.birdpackage.Duck
+com/birdpackage/Main.java
+ com.birdpackage.Main
+com/birdpackage/BirdSanctuary.java
+ com.birdpackage.BirdSanctuary
