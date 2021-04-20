@@ -10,12 +10,12 @@ public class Main {
         Parrot parrotObj2=new Parrot();
         ToyDuck toyDuckObj=new ToyDuck();
 
-        sanctuary.add(duckObj);
-        sanctuary.add(duckObj2);
-        sanctuary.add(penguinObj);
-        sanctuary.add(parrotObj);
-        sanctuary.add(parrotObj2);
-        sanctuary.add(toyDuckObj);
+        sanctuary.addBird(duckObj);
+        sanctuary.addBird(duckObj2);
+        sanctuary.addBird(penguinObj);
+        sanctuary.addBird(parrotObj);
+        sanctuary.addBird(parrotObj2);
+        sanctuary.addBird(toyDuckObj);
 
         sanctuary.removeBird(duckObj);
         sanctuary.removeBird(penguinObj);

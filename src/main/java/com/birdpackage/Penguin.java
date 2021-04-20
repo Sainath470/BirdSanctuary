@@ -6,6 +6,7 @@ public class Penguin extends Bird implements Swimmable , Eatable{
     void incrementCount() {
         count++;
     }
+
     @Override
      void decrementCount(){
         count--;
